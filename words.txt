@@ -1,0 +1,20 @@
+hangman 
+file 
+book 
+reading
+iterate through handle
+fortune
+module
+class
+program
+problem
+trouble
+dictionary
+structure
+array
+guide
+course
+data
+tutorial
+project
+
